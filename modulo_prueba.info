@@ -1,0 +1,4 @@
+name = Módulo Prueba Hello World 
+description = Módulo de prueba hello world.
+package = Custom
+core = 7.x
