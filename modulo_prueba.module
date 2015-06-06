@@ -28,5 +28,5 @@ function modulo_prueba_menu($may_cache) {
  * Function which generate page
  */
 function modulo_prueba_hello_world_page() {
-  return '<p>Hello world!</p>';
+  return '<p>Hello world motitash!</p>';
 }
